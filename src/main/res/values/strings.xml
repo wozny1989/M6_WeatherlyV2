@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weatherly</string>
+    <string name="default_location">Location Unknown</string>
+    <string name="default_temp">NA</string>
+    <string name="weather_description">Weather symbol</string>
+    <string name="title_activity_location">LocationActivity</string>
+</resources>
